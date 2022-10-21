@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+    max-width: 60em;
+    background-color: beige;
+
+}
+
+h1{
+    background-color: firebrick;
+    color: beige;
+    padding: 0.5em;
+    font-family: Calibri;
+    border-radius: 1em 1em 1em 1em;
+
+}
+
+h2{
+    font-size: 2.6em;
+    color: firebrick;
+    background-color: lightsalmon;
+    border: thin;
+    font-family: cursive;
+    text-align: center;
+}
+
+p,
+ul,
+ol,
+table {
+    font-size: 1.3em;
+    text-align: justify;
+    font-family: Calibri;
+    color: #654321;
+}
+
+ul ul {
+    font-size: inherit;
+}
+
+p2 {
+    color: black;
+    font-size: 1.0em;
+}
